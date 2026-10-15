@@ -17,6 +17,7 @@ Tools to help you create professional, ATS-friendly resumes without wrestling wi
 | **[Open-Resume](https://www.open-resume.com/)** | A powerful open-source resume builder and ATS parser. |
 | **[Awesome Resume](https://resume.github.io/)** | Generates a resume automatically based on your GitHub activity. |
 | **[GitHub Pages](https://pages.github.com/)** | Free static hosting for developer portfolios and personal sites. |
+| **[Jorrilo](https://jorrilo.com)** | Free AI resume check and resume-vs-job matching, plus tailored resume and cover-letter generation. |
 
 ---
 
